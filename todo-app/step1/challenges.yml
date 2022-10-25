@@ -1,0 +1,16 @@
+name: 'Adding style to the to do list app'
+stepId: step1
+stepBreakDown:
+    - text: style the items like 'tasks input field', 'close button', 'header', ' "Add" button', .
+    - text: Add the BLINKING EFFECT for the header "MY To Do List".
+    - text: Add style to element's like :-
+            * Style the header
+            * padding and border in an element's total width and height
+            * Style the list items
+            * Style the  buttons
+            * Set all odd list items to a different color (zebra-stripes)
+            * Darker background-color on hover
+            * Style the input
+            
+            
+            Code output look like this :  https://raw.githubusercontent.com/Misba9/todo-list-starter/master/designs/step1%20img.jpg

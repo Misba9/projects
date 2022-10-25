@@ -1,0 +1,12 @@
+Challenge: Create a todo app following given designs. Use Front-end like Html, Css, Js. Don’t look at the existing solution. Fulfill user stories below:
+
+name: 'Building basic todo list using only html'
+stepId: step0
+stepBreakDown:
+    - text: Landing page should look according to design
+    - text: 'There should be search bar'
+    - text: below there is a heading like "My To Do List"
+    - text: below there is a list of some elements like 'Hit the gym', 'Pay bills', 'Meet George', 'Buy eggs', '"Read a book', 'Organize office' and many more. 
+
+
+Code output look like this : https://raw.githubusercontent.com/Misba9/todo-list-starter/master/designs/step0%20img.jpg

@@ -1,0 +1,12 @@
+name: Adding functions to the page
+stepId: step2
+
+stepBreakDown:
+    - text:  Create a "close" button and append it to each list item.
+    
+    - text: Write a function to do while Click on a close button to hide the current list item.
+    - text: Add a "checked" symbol when clicking on a list item.
+    
+    - text: Create a new list item when clicking on the "Add" button.
+    
+    Code output look like this :   https://raw.githubusercontent.com/Misba9/todo-list-starter/master/designs/step2%20img.jpg
